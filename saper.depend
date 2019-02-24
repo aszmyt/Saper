@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1395143543 source:/home/c/Desktop/ASzmyt/Saper/saper/main.cpp
+	<iostream>
+	<cstdlib>
+
